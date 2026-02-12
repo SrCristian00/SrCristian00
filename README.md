@@ -97,5 +97,5 @@ Historial de desarrollos implementados en producción.
 <br/>
 
 <div align="center">
-  <img src="https://github.com/SrCristian00/SrCristian00/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SrCristian00/SrCristian00/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
