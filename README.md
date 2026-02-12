@@ -30,6 +30,7 @@ Estudiante de la **Facultad de Informática - Universidad Nacional de La Plata**
 | **Licenciatura en Sistemas** | 🔄 En curso |
 | **Analista TIC** | 🔄 En curso |
 | **Analista Programador Universitario** (APU) | 🔄 En curso |
+| **Diplomado en Salud Digital (UPAZ)** | ✅ Finalizado |
 
 ---
 
@@ -40,8 +41,6 @@ Especialista en el ecosistema **PHP / Laravel** para aplicaciones de alto rendim
 | **Backend & Core** | **Frontend** | **Data & Infra** | **Tools** |
 | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" /> | <img src="https://skillicons.dev/icons?i=js,html,css,vue,tailwind,bootstrap&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mysql,redis,nginx&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" /> |
-
-> *Manejo avanzado de Livewire 3 (Volt), Spatie Packages y Motores de Búsqueda (Meilisearch).*
 
 ---
 
@@ -76,7 +75,7 @@ Historial de desarrollos implementados en producción.
 | Proyecto | Estado | Stack | Descripción |
 | :--- | :--- | :--- | :--- |
 | **SiGeCa** | 🟢 Prod | PHP Puro (Legacy) | **Gestión de Camas**. Control de ingresos y ocupación hospitalaria. |
-| **Derivaciones** | 🟢 Prod | PHP Puro (Legacy) | Sistema provincial para gestión de traslados de pacientes. *(Proyecto Diplomatura)* |
+| **Derivaciones** | 🟠 End | PHP Puro (Legacy) | Sistema provincial para gestión de traslados de pacientes. *(Proyecto Diplomatura)* |
 | **Banco** | 🟢 Prod | PHP Puro (Legacy) | Gestión de solicitudes y expedientes de **prótesis** ortopédicas. |
 | **Irinka** | 🟠 Dev | Laravel, Vue, Livewire | Sistema comercial integral (Punto de venta + Stock). |
 | **CIE-10 Coder** | 🟢 Prod | HTML, JS, Gemini | Herramienta con IA para codificación de diagnósticos médicos. |
@@ -85,7 +84,7 @@ Historial de desarrollos implementados en producción.
 
 ### 📊 Estadísticas
 
-<div align="center">
+<div align="center" hidden="true">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SrCristian00&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
   </a>
