@@ -1,46 +1,52 @@
 <div align="center">
-
-  <h1 style="border-bottom: none;">Cristian</h1>
-
-  <h3>Desarrollador Fullstack | Especialista en Digital Health 🇦🇷</h3>
   
-  <p>
-    Enfocado en el desarrollo de arquitecturas robustas y la transformación digital del sector salud.<br>
-    Combinando desarrollo de software y gestión de infraestructura.
+  <h1 align="center">Hola, soy Cristian 👋</h1>
+
+  <h3 align="center">
+    Desarrollador Full Stack & Especialista en Salud Digital
+  </h3>
+
+  <p align="center">
+    Estudiante avanzado de la <strong>Facultad de Informática (UNLP)</strong>.<br/>
+    Combino el desarrollo de software con conocimientos del sector salud para crear soluciones tecnológicas eficientes.
   </p>
 
-</div>
-
-<br>
-
-### 🎓 Formación Académica
-Estudiante en la **Facultad de Informática - UNLP** (Universidad Nacional de La Plata):
-
-* 🖥️ **Licenciatura en Sistemas**
-* ⚙️ **Analista TIC** (ATIC)
-* 💻 **Analista Programador Universitario** (APU)
-
----
-
-### 🛠️ Stack Tecnológico
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,linux,js,html,css,git,bash&theme=dark" alt="Tech Stack" />
-</div>
-
-<br>
-
-### 📊 Métricas
-
-<div align="center">
-  <table style="border: none; background-color: transparent;">
+  <table align="center">
     <tr>
-      <td style="border: none; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=SrCristian00&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=00000000" height="165" alt="stats graph" />
-      </td>
-      <td style="border: none; padding-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrCristian00&layout=compact&card_width=300&langs_count=6&theme=dracula&hide_border=true&bg_color=00000000" height="165" alt="languages graph" />
+      <td align="center" width="600">
+        <strong>🎓 FORMACIÓN ACADÉMICA (UNLP)</strong><br/><br/>
+        Licenciatura en Sistemas<br/>
+        Analista TIC<br/>
+        Analista Programador Universitario
       </td>
     </tr>
   </table>
+
+  <br/> 
+
+  <h3 align="center">🛠️ Tech Stack</h3>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql&theme=dark" alt="Web Stack" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=python,linux,git,raspberrypi,discord&theme=dark" alt="Tools Stack" />
+    </a>
+  </div>
+
+  <br/>
+
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=SrCristian00&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="Cristian's Github Stats" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=SrCristian00&layout=compact&langs_count=6&card_width=280&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" />
+    </a>
+  </div>
+
+  <br/>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/TU_USUARIO" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Cristian LinkedIn" /></a>
+    <a href="mailto:TU_EMAIL@GMAIL.COM" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Cristian Email" /></a>
+  </p>
+
 </div>
