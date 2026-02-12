@@ -1,48 +1,38 @@
-<h1 align="left">Hi 👋! My name is Cristian and I'm a fullstack web development from Argentina</h1>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrCristian00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrCristian00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <h1 align="center">Hola, soy Cristian 👋</h1>
+  
+  <h3 align="center">
+    Fullstack Web Developer 🇦🇷 <br/>
+    Especializado en Transformación Digital para el Sector Salud
+  </h3>
+
+  <p align="center">
+    Combinando desarrollo de software y hardware para optimizar procesos sanitarios.<br/>
+    Actualmente enfocado en sistemas de gestión hospitalaria y automatización.
+  </p>
+
+  ---
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql&theme=dark" alt="Web Stack" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=python,linux,raspberrypi,git,discord&theme=dark" alt="System Stack" />
+  </div>
+
+  <br/>
+
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SrCristian00&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrCristian00&layout=compact&card_width=280&langs_count=6&theme=dracula&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrCristian00/SrCristian00/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrCristian00/SrCristian00/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SrCristian00/SrCristian00/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SrCristian00/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/srcristian-2000">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=srcristian-2000&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
