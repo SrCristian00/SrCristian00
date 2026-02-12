@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cristian+Lamas;Full+Stack+Developer+%7C+PHP+%26+Laravel;Especialista+en+Salud+Digital;UNLP+Student+%7C+HIGA+San+Martín" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cristian+Lamas;Full+Stack+Developer+%7C+PHP+%26+Laravel;Sector+Salud+%7C+HIGA+San+Martín;Estudiante+UNLP" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,40 +15,40 @@
 
 ### 👨‍💻 Perfil Profesional
 
-Desarrollador Full Stack con más de **4 años de experiencia en el sector salud público** (HIGA Gral. San Martín). Combino un conocimiento profundo de los **procesos hospitalarios y administrativos** con una arquitectura de software moderna para resolver problemas críticos de gestión sanitaria.
+Desarrollador Full Stack con más de **4 años de experiencia en el sector salud público** (HIGA Gral. San Martín). Conozco profundamente los procedimientos hospitalarios y administrativos, lo que me permite diseñar software que resuelve problemas reales sin fricción para el personal médico.
 
-Mi especialidad es la **migración y modernización de sistemas legacy** (PHP Puro) hacia arquitecturas escalables basadas en **Laravel**, integrando firma digital, interoperabilidad y monitoreo en tiempo real.
+Actualmente estoy enfocado en la evolución tecnológica de mis desarrollos previos, llevando sistemas de gestión crítica hacia arquitecturas modernas y escalables.
 
 ---
 
 ### 🎓 Formación Académica (UNLP)
 
-Estudiante avanzado de la **Facultad de Informática - Universidad Nacional de La Plata**.
+Estudiante de la **Facultad de Informática - Universidad Nacional de La Plata**.
 
 | Título | Estado |
 | :--- | :--- |
 | **Licenciatura en Sistemas** | 🔄 En curso |
-| **Analista TIC** (Tecnologías de la Información y la Comunicación) | 🔄 En curso |
+| **Analista TIC** | 🔄 En curso |
 | **Analista Programador Universitario** (APU) | 🔄 En curso |
 
 ---
 
 ### 🛠️ Stack Tecnológico
 
-Dominio de arquitecturas monolíticas modulares, desarrollo reactivo y despliegue en contenedores.
+Especialista en el ecosistema **PHP / Laravel** para aplicaciones de alto rendimiento.
 
-| **Core & Backend** | **Frontend & UI** | **Data & Search** | **DevOps & Tools** |
+| **Backend & Core** | **Frontend** | **Data & Infra** | **Tools** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=php,laravel,java,python&theme=dark" /> | <img src="https://skillicons.dev/icons?i=js,html,css,vue,tailwind,bootstrap&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mysql,redis,firebase&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,git,postman,github&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" /> | <img src="https://skillicons.dev/icons?i=js,html,css,vue,tailwind,bootstrap&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mysql,redis,nginx&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" /> |
 
-> *Actualmente profundizando en Docker, CI/CD y Testing automatizado.*
+> *Manejo avanzado de Livewire 3 (Volt), Spatie Packages y Motores de Búsqueda (Meilisearch).*
 
 ---
 
-### 🏥 Proyecto Insignia: SALUS
+### 🏥 Proyecto Principal: SALUS
 
-**Arquitectura de Gestión Hospitalaria Integral (HIGA San Martín)**.
-Migración completa de sistemas legacy a una plataforma moderna, reactiva y escalable.
+**Infraestructura de Gestión Hospitalaria Integral**.
+Es la evolución moderna de mis sistemas anteriores. Una plataforma modular diseñada para soportar la carga operativa de un hospital público.
 
 <details>
 <summary>🔻 <strong>Ver Arquitectura Técnica (Click para desplegar)</strong></summary>
@@ -56,33 +56,34 @@ Migración completa de sistemas legacy a una plataforma moderna, reactiva y esca
 
 | Capa | Tecnologías & Implementación |
 | :--- | :--- |
-| **Core** | **Laravel 12 + Laravel Modules (nwidart)** para arquitectura modular escalable. |
-| **Frontend** | **Livewire 3 (Volt) + MaryUI + TailwindCSS**. Reactividad total sin salir de PHP. |
-| **Datos** | **MySQL 8.0** (Relacional) + **Redis** (Caché/Sesiones) + **MinIO** (Almacenamiento S3 compatible). |
-| **Search** | **Meilisearch + Laravel Scout**. Búsqueda instantánea tolerante a fallos para padrones masivos. |
-| **Seguridad** | **Spatie Permissions (RBAC)**, Firma Digital (PDF/A + OpenSSL), 2FA y Auditoría completa (ActivityLog). |
-| **Realtime** | **Laravel Reverb (WebSockets)** para notificaciones y **Laravel Horizon** para colas de trabajo. |
-| **Calidad** | Testing con **Pest PHP**, análisis estático con **Larastan** y monitoreo de errores con **Sentry**. |
+| **Infraestructura** | **Docker (Laravel Sail)** sobre WSL2. Servidor Nginx y backups automáticos. |
+| **Core** | **Laravel 12 + Modules (nwidart)**. Arquitectura modular para escalar sin deuda técnica. |
+| **Frontend** | **Livewire 3 (Volt)** + **MaryUI** + **TailwindCSS**. Interfaz reactiva "Enterprise". |
+| **Base de Datos** | **MySQL 8.0** (Registros), **Redis** (Caché/Sesiones) y **MinIO** (Almacenamiento S3). |
+| **Búsqueda** | **Meilisearch + Laravel Scout**. Búsqueda instantánea tolerante a fallos (ideal para padrones grandes). |
+| **Seguridad** | **Spatie Permissions**, Firma Digital (PDF/A + OpenSSL), 2FA y Auditoría (ActivityLog). |
+| **Realtime** | **Laravel Reverb** (WebSockets) y **Laravel Horizon** (Colas de trabajo). |
+| **Testing** | **Pest PHP** para pruebas automatizadas y **Larastan** para análisis estático. |
 
 </details>
 
 ---
 
-### 📂 Portafolio de Proyectos
+### 📂 Otros Proyectos
 
-Además de SALUS, he desarrollado y mantenido soluciones críticas para la administración pública y privada.
+Historial de desarrollos implementados en producción.
 
-| Proyecto | Tipo | Stack | Descripción |
+| Proyecto | Estado | Stack | Descripción |
 | :--- | :--- | :--- | :--- |
-| **SiGeCa** | 🏥 Salud | PHP (Legacy) | **Sistema de Gestión de Camas**. Control de ocupación e ingresos en tiempo real. |
-| **Derivaciones** | 🚑 Salud | PHP (Legacy) | Sistema provincial para la gestión y seguimiento de derivaciones de pacientes internados. *(Proyecto Diplomatura)* |
-| **Banco** | 🦴 Salud | PHP (Legacy) | Gestión de solicitudes, expedientes y seguimiento de **prótesis** hospitalarias. |
-| **Irinka** | 🛒 E-commerce | Laravel, Vue, Livewire | Sistema de gestión comercial integral (Punto de venta + Stock + Tienda Online). |
-| **CIE-10 Coder** | 🤖 AI Tool | HTML, JS, Gemini API | Herramienta de codificación médica asistida por Inteligencia Artificial. |
+| **SiGeCa** | 🟢 Prod | PHP Puro (Legacy) | **Gestión de Camas**. Control de ingresos y ocupación hospitalaria. |
+| **Derivaciones** | 🟢 Prod | PHP Puro (Legacy) | Sistema provincial para gestión de traslados de pacientes. *(Proyecto Diplomatura)* |
+| **Banco** | 🟢 Prod | PHP Puro (Legacy) | Gestión de solicitudes y expedientes de **prótesis** ortopédicas. |
+| **Irinka** | 🟠 Dev | Laravel, Vue, Livewire | Sistema comercial integral (Punto de venta + Stock). |
+| **CIE-10 Coder** | 🟢 Prod | HTML, JS, Gemini | Herramienta con IA para codificación de diagnósticos médicos. |
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 Estadísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SrCristian00&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
