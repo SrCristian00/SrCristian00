@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/crslamas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu_email@gmail.com">
+  <a href="mailto:crslamas@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -86,12 +86,16 @@ Historial de desarrollos implementados en producción.
 ### 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrCristian00&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrCristian00&layout=compact&langs_count=6&card_width=280&theme=algolia&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SrCristian00&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrCristian00&layout=compact&langs_count=6&card_width=280&theme=algolia&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/SrCristian00/SrCristian00/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
