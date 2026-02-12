@@ -1,84 +1,96 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hola,+soy+Cristian+👋;Desarrollador+Full+Stack;Especialista+en+Salud+Digital;UNLP+Student+%7C+Linux+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cristian+Lamas;Full+Stack+Developer+%7C+PHP+%26+Laravel;Especialista+en+Salud+Digital;UNLP+Student+%7C+HIGA+San+Martín" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <br />
-  <img src="https://img.shields.io/badge/Focus-Digital%20Health-blue?style=for-the-badge&logo=esculapio" />
-  <img src="https://img.shields.io/badge/Location-Argentina-lightgrey?style=for-the-badge&logo=argentina" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/crslamas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tu_email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 Perfil Profesional
 
-Soy un desarrollador apasionado por la intersección entre la **Medicina** y la **Informática**. Mi enfoque no es solo escribir código, sino diseñar ecosistemas digitales que resuelvan problemas reales en el ámbito sanitario. 
+Desarrollador Full Stack con más de **4 años de experiencia en el sector salud público** (HIGA Gral. San Martín). Combino un conocimiento profundo de los **procesos hospitalarios y administrativos** con una arquitectura de software moderna para resolver problemas críticos de gestión sanitaria.
 
-Actualmente, estoy avanzado en la **Facultad de Informática de la UNLP (Universidad Nacional de La Plata)**, consolidando un perfil técnico robusto con una fuerte base académica.
-
-#### 🎓 Formación Académica (UNLP)
-* 📜 **Licenciatura en Sistemas** (En curso)
-* 📜 **Analista TIC** (Analista en Tecnologías de la Información y la Comunicación)
-* 📜 **APU** (Analista Programador Universitario)
+Mi especialidad es la **migración y modernización de sistemas legacy** (PHP Puro) hacia arquitecturas escalables basadas en **Laravel**, integrando firma digital, interoperabilidad y monitoreo en tiempo real.
 
 ---
 
-### 🚀 Stack Tecnológico
+### 🎓 Formación Académica (UNLP)
 
-Mi arsenal de herramientas se divide en desarrollo web robusto y gestión de sistemas/hardware (clave para infraestructura hospitalaria).
+Estudiante avanzado de la **Facultad de Informática - Universidad Nacional de La Plata**.
 
-| **Categoría** | **Tecnologías** |
+| Título | Estado |
 | :--- | :--- |
-| **Backend & Core** | <img src="https://skillicons.dev/icons?i=php,python,java,c&theme=dark" /> |
-| **Frontend & Web** | <img src="https://skillicons.dev/icons?i=html,css,js,laravel,bootstrap&theme=dark" /> |
-| **Data & Cloud** | <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=dark" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash&theme=dark" /> |
-| **Hardware / IoT** | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" /> |
+| **Licenciatura en Sistemas** | 🔄 En curso |
+| **Analista TIC** (Tecnologías de la Información y la Comunicación) | 🔄 En curso |
+| **Analista Programador Universitario** (APU) | 🔄 En curso |
 
 ---
 
-### 🛠️ Proyectos Destacados
+### 🛠️ Stack Tecnológico
 
-> *"La tecnología no es el fin, es el medio para mejorar la calidad de vida."*
+Dominio de arquitecturas monolíticas modulares, desarrollo reactivo y despliegue en contenedores.
 
-#### 🏥 División de Salud Digital
-Actualmente lidero la propuesta para la creación de un área especializada dentro del departamento de informática institucional.
-* **Objetivo:** Modernización de procesos clínicos y administrativos.
-* **Impacto:** Reducción de tiempos de espera y digitalización de historias clínicas.
+| **Core & Backend** | **Frontend & UI** | **Data & Search** | **DevOps & Tools** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=php,laravel,java,python&theme=dark" /> | <img src="https://skillicons.dev/icons?i=js,html,css,vue,tailwind,bootstrap&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mysql,redis,firebase&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,git,postman,github&theme=dark" /> |
 
-#### 🖥️ Sistema de Gestión de Llamadores (Kiosk Mode)
-Desarrollo de una solución integral para la gestión de **Mini PCs** en salas de espera y consultorios.
-* **Stack:** Python (Flask), Bash Scripting, Linux (Systemd services), JavaScript.
-* **Funcionalidad:** Control remoto de volumen, redirección de URLs y mantenimiento automatizado de terminales en modo quiosco.
+> *Actualmente profundizando en Docker, CI/CD y Testing automatizado.*
+
+---
+
+### 🏥 Proyecto Insignia: SALUS
+
+**Arquitectura de Gestión Hospitalaria Integral (HIGA San Martín)**.
+Migración completa de sistemas legacy a una plataforma moderna, reactiva y escalable.
+
+<details>
+<summary>🔻 <strong>Ver Arquitectura Técnica (Click para desplegar)</strong></summary>
+<br/>
+
+| Capa | Tecnologías & Implementación |
+| :--- | :--- |
+| **Core** | **Laravel 12 + Laravel Modules (nwidart)** para arquitectura modular escalable. |
+| **Frontend** | **Livewire 3 (Volt) + MaryUI + TailwindCSS**. Reactividad total sin salir de PHP. |
+| **Datos** | **MySQL 8.0** (Relacional) + **Redis** (Caché/Sesiones) + **MinIO** (Almacenamiento S3 compatible). |
+| **Search** | **Meilisearch + Laravel Scout**. Búsqueda instantánea tolerante a fallos para padrones masivos. |
+| **Seguridad** | **Spatie Permissions (RBAC)**, Firma Digital (PDF/A + OpenSSL), 2FA y Auditoría completa (ActivityLog). |
+| **Realtime** | **Laravel Reverb (WebSockets)** para notificaciones y **Laravel Horizon** para colas de trabajo. |
+| **Calidad** | Testing con **Pest PHP**, análisis estático con **Larastan** y monitoreo de errores con **Sentry**. |
+
+</details>
+
+---
+
+### 📂 Portafolio de Proyectos
+
+Además de SALUS, he desarrollado y mantenido soluciones críticas para la administración pública y privada.
+
+| Proyecto | Tipo | Stack | Descripción |
+| :--- | :--- | :--- | :--- |
+| **SiGeCa** | 🏥 Salud | PHP (Legacy) | **Sistema de Gestión de Camas**. Control de ocupación e ingresos en tiempo real. |
+| **Derivaciones** | 🚑 Salud | PHP (Legacy) | Sistema provincial para la gestión y seguimiento de derivaciones de pacientes internados. *(Proyecto Diplomatura)* |
+| **Banco** | 🦴 Salud | PHP (Legacy) | Gestión de solicitudes, expedientes y seguimiento de **prótesis** hospitalarias. |
+| **Irinka** | 🛒 E-commerce | Laravel, Vue, Livewire | Sistema de gestión comercial integral (Punto de venta + Stock + Tienda Online). |
+| **CIE-10 Coder** | 🤖 AI Tool | HTML, JS, Gemini API | Herramienta de codificación médica asistida por Inteligencia Artificial. |
 
 ---
 
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrCristian00&show_icons=true&count_private=true&theme=radical&hide_border=false" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrCristian00&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=false" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrCristian00&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrCristian00&layout=compact&langs_count=6&card_width=280&theme=algolia&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-### 📫 Conectemos
-
-Si te interesa colaborar en proyectos de salud digital, automatización con Linux o desarrollo web, no dudes en escribirme.
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:TU_EMAIL@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
 </div>
