@@ -79,22 +79,3 @@ Historial de desarrollos implementados en producción.
 | **Banco** | 🟢 Prod | PHP Puro (Legacy) | Gestión de solicitudes y expedientes de **prótesis** ortopédicas. |
 | **Irinka** | 🟠 Dev | Laravel, Vue, Livewire | Sistema comercial integral (Punto de venta + Stock). |
 | **CIE-10 Coder** | 🟢 Prod | HTML, JS, Gemini | Herramienta con IA para codificación de diagnósticos médicos. |
-
----
-
-### 📊 Estadísticas
-
-<div align="center" hidden="true">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SrCristian00&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrCristian00&layout=compact&langs_count=6&card_width=280&theme=algolia&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SrCristian00/SrCristian00/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
