@@ -30,7 +30,7 @@ Estudiante de la **Facultad de Informática - Universidad Nacional de La Plata**
 | **Licenciatura en Sistemas** | 🔄 En curso |
 | **Analista TIC** | 🔄 En curso |
 | **Analista Programador Universitario** (APU) | 🔄 En curso |
-| **Diplomado en Salud Digital (UPAZ)** | ✅ Finalizado |
+| **Diplomado en Salud Digital (UNPAZ)** | ✅ Finalizado |
 
 ---
 
